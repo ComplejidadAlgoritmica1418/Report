@@ -109,6 +109,3 @@ Este trabajo presenta una solución eficiente para el cálculo de rutas más cor
 3. "A* search algorithm", Wikipedia. https://en.wikipedia.org/wiki/A*_search_algorithm
 4. NetworkX documentation. https://networkx.github.io/documentation/stable/
 
----
-
-Este es el formato HTML que puedes copiar y pegar en tu archivo `.md` de GitHub. Si necesitas realizar algún ajuste o agregar más detalles, ¡avísame!
