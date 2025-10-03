@@ -6,7 +6,7 @@
 - Luis Piero Rodríguez Rodríguez
 - Raúl Bellido Salas
 
-**Fecha de entrega**: [Fecha]  
+**Fecha de entrega**: 6/10/2025  
 
 **Código de la materia**: **CC184 - Complejidad Algorítmica**
 
@@ -25,9 +25,9 @@
 ---
 
 ## Introducción
-El objetivo de este trabajo es aplicar técnicas de **complejidad algorítmica** para resolver el problema de encontrar la ruta más corta entre dos puntos en una ciudad. Para ello, modelamos la ciudad como un **grafo** donde las intersecciones de las calles son los **nodos** y las calles son las **aristas**. Utilizando algoritmos de búsqueda de rutas en grafos, como **Dijkstra**, buscamos optimizar el tiempo de recorrido, considerando el **tráfico** y la **hora del día** como factores dinámicos en las aristas del grafo.
+El objetivo de este trabajo es aplicar técnicas de complejidad algorítmica para resolver el problema de encontrar la ruta más corta entre dos puntos en una ciudad. Para ello, modelamos la ciudad como un grafo donde las intersecciones de las calles son los nodos y las calles son las aristas. Utilizando algoritmos de búsqueda de rutas en grafos, como Dijkstra, buscamos optimizar el tiempo de recorrido, considerando el tráfico y la hora del día como factores dinámicos en las aristas del grafo.
 
-Este tipo de problema tiene una gran aplicación práctica, ya que puede ser utilizado para **optimizar rutas en aplicaciones como Waze**, lo que facilita la movilidad urbana y mejora la eficiencia del transporte.
+Este tipo de problema tiene una gran aplicación práctica, ya que puede ser utilizado para optimizar rutas en aplicaciones como Waze, lo que facilita la movilidad urbana y mejora la eficiencia del transporte.
 
 ---
 
