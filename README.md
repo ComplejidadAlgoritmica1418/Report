@@ -2,7 +2,7 @@
 
 **Nombre de los integrantes**:  
 - Sebastián Eduardo Hernández Poma  
-- [Nombre del segundo integrante]  
+- Sandra Paula Luyo Correa  
 - [Nombre del tercer integrante]  
 
 **Fecha de entrega**: [Fecha]  
