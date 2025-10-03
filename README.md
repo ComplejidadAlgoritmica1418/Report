@@ -3,7 +3,8 @@
 **Nombre de los integrantes**:  
 - Sebastián Eduardo Hernández Poma  
 - Sandra Paula Luyo Correa  
-- [Nombre del tercer integrante]  
+- Luis Piero Rodríguez Rodríguez
+- Raúl Bellido Salas
 
 **Fecha de entrega**: [Fecha]  
 
